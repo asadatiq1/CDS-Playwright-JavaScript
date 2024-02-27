@@ -2,5 +2,5 @@
   "emailField": "//*[@id='exampleFormControlInput1']",
   "passwordField": "//*[@id='exampleFormControlInput2']",
   "CTA_forgot": "/html/body/main/div/div/div/div/div/div[2]/form/div[3]/a",
-  "lginBtn": "/html/body/main/div/div/div/div/div/div[2]/form/div[4]/button"
+  "lginBtn": "button.btn.btn-primary-1"
 }
