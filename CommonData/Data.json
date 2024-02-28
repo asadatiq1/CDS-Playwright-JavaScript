@@ -1,5 +1,8 @@
 {
   "baseUrl": "http://10.0.2.243:1004/",
   "RegisteredEmail": "faran.sajid@tkxel.com",
-  "RegisteredPassword": "P@ssw0rd123"
+  "RegisteredPassword": "P@ssw0rd123",
+  "UnregisteredEmail": "faran@tkxeel.com",
+  "WrongPassword": "Passwrd11122",
+  "InvalidEmail": "faran"
 }

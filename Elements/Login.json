@@ -2,5 +2,17 @@
   "emailField": "//*[@id='exampleFormControlInput1']",
   "passwordField": "//*[@id='exampleFormControlInput2']",
   "CTA_forgot": "/html/body/main/div/div/div/div/div/div[2]/form/div[3]/a",
-  "lginBtn": "button.btn.btn-primary-1"
+  "lginBtn": "button.btn.btn-primary-1",
+  "UnregisteredError": "//span[@class='text-danger field-validation-error']",
+  "UnregisteredErrorText": "Invalid or Inactive User",
+  "RequiredEmailError": "//span[@id='exampleFormControlInput1-error']",
+  "RequiredEmailErrorText": "The Username field is required.",
+  "RequiredPasswordError": "//span[@id='exampleFormControlInput2-error']",
+  "RequiredPasswordErrorText": "The Password field is required.",
+  "InvalidEmailError": "//span[@id='exampleFormControlInput1-error']",
+  "InvalidEmailErrorText": "Please enter a valid email address.",
+  "InvalidPasswordError": "//span[@id='exampleFormControlInput2-error']",
+  "InvalidPasswordErrorText": "The field Password must be a string or array type with a minimum length of '8'.",
+  "WrongEmailPasswordError": "//span[@class='text-danger field-validation-error']",
+  "WrongEmailPasswordErrorText": "Username or Password is incorrect"
 }
